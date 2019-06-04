@@ -119,8 +119,6 @@ Sim.
 
 Quanto mais tempo você demorar, mais críticos seremos na sua avaliação =]
 
-Esperamos que você finalize em 2 ou 3 dias. Cuidado para não acabar reinventando a roda.
-
 #### Kotlin or Java?
 Você pode escolher qualquer uma delas.
 
