@@ -34,7 +34,7 @@ A avaliação será baseada na capacidade de escrever um código simples, de fá
 
 ### O que nós vamos avaliar
 
-- Você será avaliado pela qualidade do código, legibilidade e pela quantidade de funcionalidades implementadas.
+- Vamos avaliar a qualidade do código, legibilidade e a quantidade de funcionalidades implementadas.
 - Você é livre para tomar as decisões técnicas com as quais você se sente mais confortável. Apenas esteja pronto para explicar as razões que fundamentaram suas escolhas =]
 - Inclua um arquivo *README* que possua:
   - desafios/problemas com os quais você se deparou durante a execução do projeto.
