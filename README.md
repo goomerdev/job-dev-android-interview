@@ -12,9 +12,9 @@ Você será avaliado pela sua capacidade de escrever um código simples, de fác
 
 - **Nome do Projeto:** Goomer Lista Rango
 - **Objetivo do Projeto:** Criar um aplicativo Android para Tablet, que consulte nossa API e exiba uma lista de restaurantes e o cardápio de cada um deles.
-- **Tecnologia:** Kotlin/Java
-- **User Interface:** Você pode [usar esse link](https://xd.adobe.com/spec/f1288410-9211-41e1-588b-c5e98f0c6643-8719/) como referência de UI durante o desenvolvimento.
-- **Entregáveis:** Crie um repositório pessoal para esse projeto, siga as instruções abaixo e então envie um e-mail para joao.arcala@goomer.com.br informando o link do repositório.
+- **Tecnologia:** Kotlin/Java. Não utilize plataformas híbridas.
+- **User Interface:** Você deve [usar esse link](https://xd.adobe.com/spec/f1288410-9211-41e1-588b-c5e98f0c6643-8719/) como referência de UI durante o desenvolvimento.
+- **Entregáveis:** Crie um repositório pessoal para esse projeto, siga as instruções abaixo e responda e-mail recebido com link do repositório. Caso você resolveu fazer o teste por conta própria pode enviar para selecao.tech@goomer.com.br.
 
 ### Desafio
 
@@ -44,19 +44,19 @@ Você será avaliado pela sua capacidade de escrever um código simples, de fác
 ### Dicas
 
 - Documente seu projeto em arquivos markdown explicando a estrutura, processo de setup e requisitos.
-- Tenha sempre um mindset de usabilidade, escalabilidade e colaboração.
+- Tenha sempre uma mentalidade de usabilidade, escalabilidade e colaboração.
 - A organização das branches e os commits no repositório falam muito sobre como você organiza seu trabalho.
 - Você pode utilizar bibliotecas de componentes visuais;
-- O material de UI/UX que fornecemos deve servir como uma referência, você não precisa necessariamente segui-lo à risca. No entanto, quanto mais próximo, melhor =]
+- Busque seguir o material de UI/UX da forma mais fiel possível. Caso você encontre alguma inconsistência ou limitação e veja a necessidade de fazer algo diferente, implemente da forma que pensa e explique os motivos.
 - Seria legal você restringir a visualização da tela para o modo *Landspace*.
-- Os testes unitários são opcionais porém são mais do que desejados.
+- Os testes unitários são muito importantes.
 - O design/estrutura do código da aplicação deve ser *production ready*.
 - Tenha em mente os conceitos de *SOLID, KISS, YAGNI e DRY*.
 - Use boas práticas de programação.
 
 ### API que você deve consumir
 
-https://challange.goomer.com.br é nossa API REST JSON para esse desafio e seus endpoints estão disponíveis publicamente.
+Temos uma API REST JSON para esse desafio e seus endpoints estão disponíveis publicamente.
 
 **Examplos de consulta na API:**
 
@@ -115,7 +115,7 @@ Formato de resposta:
 #### Posso utilizar frameworks/bibliotecas?
 Sim.
 
-#### Quanto tempo eu tenho ?
+#### Quanto tempo eu tenho?
 
 Quanto mais tempo você demorar, mais críticos seremos na sua avaliação =]
 
