@@ -10,7 +10,7 @@ Você será avaliado pela sua capacidade de escrever um código simples, de fác
 
 ### Instruções
 
-- **Nome do Projeto:** Goomer Lista Rango
+- **Nome do Projeto:** Goomer App Clone
 - **Objetivo do Projeto:** Criar um aplicativo Android para Tablet, que consulte nossa API e exiba uma lista de restaurantes e o cardápio de cada um deles.
 - **Tecnologia:** Kotlin/Java. Não utilize plataformas híbridas.
 - **User Interface:** Você deve [usar esse link](https://xd.adobe.com/spec/f1288410-9211-41e1-588b-c5e98f0c6643-8719/) como referência de UI durante o desenvolvimento.
