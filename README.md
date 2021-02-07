@@ -6,7 +6,7 @@ Você provavelmente já está participando do nosso processo seletivo, mas se vo
 
 Não é esperado que todos consigam realizar esse desafio por completo, já que é destinado a todos os níveis de carreira.
 
-Você será avaliado pela sua capacidade de escrever um código simples, de fácil manutenção, e pela quantidade de funcionalidades que você entregar.
+A avaliação será baseada na capacidade de escrever um código simples, de fácil manutenção, e pela quantidade de funcionalidades que você entregar.
 
 ### Instruções
 
